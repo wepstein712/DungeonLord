@@ -1,0 +1,679 @@
+fileFormatVersion: 2
+guid: 2c5270e8d7e681f4dba1b33f73a82696
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2818719720228193573
+    second: goblinminion1_walk_sheet_full_0
+  - first:
+      213: -6513696187054530637
+    second: goblinminion1_walk_sheet_full_1
+  - first:
+      213: -2426507418395322822
+    second: goblinminion1_walk_sheet_full_2
+  - first:
+      213: -2137590972001835233
+    second: goblinminion1_walk_sheet_full_3
+  - first:
+      213: -6644836850692126583
+    second: goblinminion1_walk_sheet_full_4
+  - first:
+      213: -5300670537183047704
+    second: goblinminion1_walk_sheet_full_5
+  - first:
+      213: -6187159952028313838
+    second: goblinminion1_walk_sheet_full_6
+  - first:
+      213: 4643732199140286494
+    second: goblinminion1_walk_sheet_full_7
+  - first:
+      213: 3277188438770697504
+    second: goblinminion1_walk_sheet_full_8
+  - first:
+      213: 1740833610896793039
+    second: goblinminion1_walk_sheet_full_9
+  - first:
+      213: 2532283760476553181
+    second: goblinminion1_walk_sheet_full_10
+  - first:
+      213: 8017517703552782546
+    second: goblinminion1_walk_sheet_full_11
+  - first:
+      213: 8402916605855533767
+    second: goblinminion1_walk_sheet_full_12
+  - first:
+      213: 2012841764151798965
+    second: goblinminion1_walk_sheet_full_13
+  - first:
+      213: -4686022556863621677
+    second: goblinminion1_walk_sheet_full_14
+  - first:
+      213: -6886772390140053818
+    second: goblinminion1_walk_sheet_full_15
+  - first:
+      213: -6521347462267340945
+    second: goblinminion1_walk_sheet_full_16
+  - first:
+      213: -592432698813244434
+    second: goblinminion1_walk_sheet_full_17
+  - first:
+      213: 6749629582843347154
+    second: goblinminion1_walk_sheet_full_18
+  - first:
+      213: -1164387308142911811
+    second: goblinminion1_walk_sheet_full_19
+  - first:
+      213: -1962492902807409668
+    second: goblinminion1_walk_sheet_full_20
+  - first:
+      213: 6182167712306147124
+    second: goblinminion1_walk_sheet_full_21
+  - first:
+      213: 5945016059082284064
+    second: goblinminion1_walk_sheet_full_22
+  - first:
+      213: 5807396572624142144
+    second: goblinminion1_walk_sheet_full_23
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: goblinminion1_walk_sheet_full_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 209
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e583dfe02fbae42887494adf36a271
+      internalID: 2818719720228193573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinminion1_walk_sheet_full_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 210
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f51864e165552439b4ed2c21cc5477
+      internalID: -6513696187054530637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinminion1_walk_sheet_full_2
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 211
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19071b31771c1d149b3362308e0b828f
+      internalID: -2426507418395322822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinminion1_walk_sheet_full_3
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 210
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb501bd6adac4f4aa90e328af5f5597
+      internalID: -2137590972001835233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinminion1_walk_sheet_full_4
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 211
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aa9614297baffe4cae93416578f60e5
+      internalID: -6644836850692126583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinminion1_walk_sheet_full_5
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 210
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e38342ff2e062cd4dab7a3c6253d7f35
+      internalID: -5300670537183047704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinminion1_walk_sheet_full_6
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 146
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d75226a254f27f04aba7aa1baff906a8
+      internalID: -6187159952028313838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinminion1_walk_sheet_full_7
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 147
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99aa1ccc747749e4cb992c42c4a976ea
+      internalID: 4643732199140286494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinminion1_walk_sheet_full_8
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 146
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2afa0f7039521314a9b5d705e6a5d65c
+      internalID: 3277188438770697504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinminion1_walk_sheet_full_9
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 147
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7754ca7eb39fca488aaaffbd7d56a7c
+      internalID: 1740833610896793039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinminion1_walk_sheet_full_10
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 146
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1528a52138518d94893bbc0e21e90aea
+      internalID: 2532283760476553181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinminion1_walk_sheet_full_11
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 145
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eddbb9c365fb6c4fbcd7c06418e2d95
+      internalID: 8017517703552782546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinminion1_walk_sheet_full_12
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 83
+        width: 15
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b8c65a34744096418c9e227a126fbd3
+      internalID: 8402916605855533767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinminion1_walk_sheet_full_13
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 83
+        width: 14
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ac818fc092ab94ab9410a19f041c13
+      internalID: 2012841764151798965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinminion1_walk_sheet_full_14
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 83
+        width: 15
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03aec00dbba227b4697494c5f686c749
+      internalID: -4686022556863621677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinminion1_walk_sheet_full_15
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 83
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa49f9f2e6901c34086b9608969a1c1c
+      internalID: -6886772390140053818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinminion1_walk_sheet_full_16
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 83
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c7ab68f90791e43accc6123300da35
+      internalID: -6521347462267340945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinminion1_walk_sheet_full_17
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 83
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd2ab96efbf5b446af8e77669fea1c4
+      internalID: -592432698813244434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinminion1_walk_sheet_full_18
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 19
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a5c7744eb595249b393e4219e4a0a5
+      internalID: 6749629582843347154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinminion1_walk_sheet_full_19
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 19
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd6e09f06650044aab8de595becf70b
+      internalID: -1164387308142911811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinminion1_walk_sheet_full_20
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 19
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0d35da365b7b5845a0191119286ed32
+      internalID: -1962492902807409668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinminion1_walk_sheet_full_21
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 19
+        width: 15
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62bd51695ef96a24aa9242d8e0f84073
+      internalID: 6182167712306147124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinminion1_walk_sheet_full_22
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 19
+        width: 14
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f02a2c67119094ba2969693c30b997
+      internalID: 5945016059082284064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinminion1_walk_sheet_full_23
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 19
+        width: 15
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33ab61219e437924abc644c68498598b
+      internalID: 5807396572624142144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
