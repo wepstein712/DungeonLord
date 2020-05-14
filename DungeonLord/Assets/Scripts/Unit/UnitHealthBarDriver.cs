@@ -2,15 +2,17 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using Unit;
 
 public class UnitHealthBarDriver : MonoBehaviour
 {
     public GameObject _myUnit;
     public Slider _healthBar;
+    public Image _fill;
     public IHealth _healthScript;
-    public HealthBarConfiguration _healthBarStyling;
+    public StatBarConfiguration _healthBarStyling;
 
-    // Start is called before the first frame update
+    // Called before OnEnable
     void Awake()
     {
         if(_healthBar == null)
@@ -18,18 +20,32 @@ public class UnitHealthBarDriver : MonoBehaviour
         
         if(_healthScript == null && _myUnit != null)
             _healthScript = _myUnit.GetComponent<IHealth>();
-
-        //Subscribe to some event by reference
-        //ToDo
     }
 
     //Should be subscribed to health change event unless there is a better way of doing it I guess
     void UpdateHealthBar()
     {
         //Apply gradient fill based on percentage from IHealth script
-        var currentPrecentage = _healthScript.CurrentHealthPercent;
+        var currentPercentage = _healthScript.CurrentHealthPercent;
+        Color fillColor;
+        if(_healthBarStyling == null)
+            fillColor = Color.red;
+        else
+            fillColor = _healthBarStyling.FillGradient.Evaluate(currentPercentage);
 
-        //if(_healthBarStyling == null)
-            
+        _fill.color = fillColor;
+        _healthBar.value = currentPercentage;
+    }
+
+    void OnEnable()
+    {
+        if(_healthScript != null)
+            _healthScript.HealthChanged += UpdateHealthBar;
+    }
+
+    void OnDisable()
+    {
+        if(_healthScript != null)
+            _healthScript.HealthChanged -= UpdateHealthBar;
     }
 }

@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 59d8ff1476668ec4a98126cdbed685f6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - LeftSideImage: {instanceID: 0}
+  - StatBarOutline: {fileID: 21300000, guid: bf664f68ef58e404a8697df80c67f052, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
