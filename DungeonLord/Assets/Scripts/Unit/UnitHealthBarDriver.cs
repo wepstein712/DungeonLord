@@ -9,7 +9,7 @@ public class UnitHealthBarDriver : MonoBehaviour
     public GameObject _myUnit;
     public Slider _healthBar;
     public Image _fill;
-    public IHealth _healthScript;
+    public IResource _healthScript;
     public StatBarConfiguration _healthBarStyling;
 
     // Called before OnEnable
@@ -19,14 +19,14 @@ public class UnitHealthBarDriver : MonoBehaviour
             _healthBar = GetComponent<Slider>();
         
         if(_healthScript == null && _myUnit != null)
-            _healthScript = _myUnit.GetComponent<IHealth>();
+            _healthScript = _myUnit.GetComponent<IHealth>() as IResource;
     }
 
     //Should be subscribed to health change event unless there is a better way of doing it I guess
     void UpdateHealthBar()
     {
         //Apply gradient fill based on percentage from IHealth script
-        var currentPercentage = _healthScript.CurrentHealthPercent;
+        var currentPercentage = _healthScript.CurrentPercentOfMax;
         Color fillColor;
         if(_healthBarStyling == null)
             fillColor = Color.red;
@@ -40,12 +40,12 @@ public class UnitHealthBarDriver : MonoBehaviour
     void OnEnable()
     {
         if(_healthScript != null)
-            _healthScript.HealthChanged += UpdateHealthBar;
+            _healthScript.ResourceChanged += UpdateHealthBar;
     }
 
     void OnDisable()
     {
         if(_healthScript != null)
-            _healthScript.HealthChanged -= UpdateHealthBar;
+            _healthScript.ResourceChanged -= UpdateHealthBar;
     }
 }

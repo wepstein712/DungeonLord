@@ -9,10 +9,16 @@ public class TrapBarrel : MonoBehaviour
     {
         if(other.collider.gameObject.CompareTag("Unit"))
         {
-            var healthScript = other.gameObject.GetComponent<IHealth>();
+            var healthScript = other.gameObject.GetComponent<IHealth>() as IResource;
             if(healthScript != null)
             {
-                healthScript.TakeDamage(10);
+                healthScript.SubtractAmount(10);
+            }
+
+            var manaScript = other.gameObject.GetComponent<IMana>() as IResource;
+            if(manaScript != null)
+            {
+                manaScript.SubtractAmount(30);
             }
         }
     }

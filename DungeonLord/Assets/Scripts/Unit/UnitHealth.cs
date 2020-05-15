@@ -6,7 +6,7 @@ using UnityEngine.UI;
 
 namespace Unit
 {
-    public class PlayerHealth : MonoBehaviour, IHealth
+    public class UnitHealth : MonoBehaviour, IHealth, IResource
     {
         [Header("Stats")]
         [SerializeField]
@@ -14,11 +14,11 @@ namespace Unit
         [SerializeField]
         private float _maxHealth = 100;
 
-        public float CurrentHealth { get { return _currentHealth; } }
+        public float CurrentValue { get { return _currentHealth; } }
 
-        public float MaxHealth { get { return _maxHealth; } }
+        public float MaxValue { get { return _maxHealth; } }
 
-        public float CurrentHealthPercent { get { return _currentHealth / _maxHealth; } }
+        public float CurrentPercentOfMax { get { return _currentHealth / _maxHealth; } }
 
         private void ChangeCurrentHealth(float newValue)
         {
@@ -31,10 +31,10 @@ namespace Unit
             if(_currentHealth < 0)
                 _currentHealth = 0;
 
-            HealthChanged?.Invoke();
+            ResourceChanged?.Invoke();
         }
 
-        public void SetNewMaxHealth(float newValue)
+        public void SetNewMaxValue(float newValue)
         {
             _maxHealth = newValue;
 
@@ -42,21 +42,30 @@ namespace Unit
                 ChangeCurrentHealth(_maxHealth);
         }
 
-        public float HealAmount(float amount)
-        {
-            ChangeCurrentHealth(_currentHealth + amount);
-            
-            return _currentHealth;
-        }
-
-        public float TakeDamage(float damageAmount)
+        public float SubtractAmount(float damageAmount)
         {
             ChangeCurrentHealth(_currentHealth - damageAmount);
 
             return _currentHealth;
         }
 
-        public float SetPercentHealth(float newPercent)
+        public float RestoreAmount(float amount)
+        {
+            ChangeCurrentHealth(_currentHealth + amount);
+            
+            return _currentHealth;
+        }
+
+        public float SubtractPercentOfMax(float percentToTake)
+        {
+            var valueToTake = _maxHealth * percentToTake;
+
+            ChangeCurrentHealth(_currentHealth);
+
+            return _currentHealth;
+        }
+
+        public float SetCurrentPercentOfMax(float newPercent)
         {
             float modifiedNewPercent = newPercent;
 
@@ -70,16 +79,7 @@ namespace Unit
             return _currentHealth;
         }
 
-        public float TakePercentDamage(float percentToTake)
-        {
-            var valueToTake = _maxHealth * percentToTake;
-
-            ChangeCurrentHealth(_currentHealth);
-
-            return _currentHealth;
-        }
-
         //Events
-        public event OnHealthChange HealthChanged;
+        public event OnResourceChange ResourceChanged;
     }
 }

@@ -1,7 +1,43 @@
 fileFormatVersion: 2
 guid: 05ad2787db61b5642adf7b7905630187
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -9092531369136344308
+    second: goblinminion1attack_sheet_0
+  - first:
+      213: -2619313680356891873
+    second: goblinminion1attack_sheet_1
+  - first:
+      213: -7042805981233594600
+    second: goblinminion1attack_sheet_2
+  - first:
+      213: 6800979713695146995
+    second: goblinminion1attack_sheet_3
+  - first:
+      213: 1711371361978884881
+    second: goblinminion1attack_sheet_4
+  - first:
+      213: -8275311040403363145
+    second: goblinminion1attack_sheet_5
+  - first:
+      213: 5445337824925652142
+    second: goblinminion1attack_sheet_6
+  - first:
+      213: -2635417580156529168
+    second: goblinminion1attack_sheet_7
+  - first:
+      213: 1623822651458314774
+    second: goblinminion1attack_sheet_8
+  - first:
+      213: 7976827686389108837
+    second: goblinminion1attack_sheet_9
+  - first:
+      213: 4648527577653320795
+    second: goblinminion1attack_sheet_10
+  - first:
+      213: -5439003372080780513
+    second: goblinminion1attack_sheet_11
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -31,7 +67,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
+    filterMode: 0
     aniso: -1
     mipBias: -100
     wrapU: 1
@@ -40,12 +76,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 64
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -70,9 +106,273 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: goblinminion1attack_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 17
+        width: 47
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35af215b9b9434c42bc55e06d133e93d
+      internalID: -9092531369136344308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinminion1attack_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 17
+        width: 47
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f9c41e7d6b79d940bc29b5809534b54
+      internalID: -2619313680356891873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinminion1attack_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 17
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa502f31fd702242a32df9179b99d2e
+      internalID: -7042805981233594600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinminion1attack_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 17
+        width: 46
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ad591ba1a0d963448645794adbe94fa
+      internalID: 6800979713695146995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinminion1attack_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 17
+        width: 46
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf7e8afeaed9e24e8377aeda59f8a34
+      internalID: 1711371361978884881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinminion1attack_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 17
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c098b561bc93e7e4ab7c0e8b6edbe8b4
+      internalID: -8275311040403363145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinminion1attack_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 18
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e750efc5b73a9a1419d6035d7cc9ec5e
+      internalID: 5445337824925652142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinminion1attack_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 17
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c2689a02f3b87d41bbc489ba5a883e1
+      internalID: -2635417580156529168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinminion1attack_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 17
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de8c45b33ffdfab4cb704c0ef79ee018
+      internalID: 1623822651458314774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinminion1attack_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 17
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c38f69d51c237e748b0961bea248a21a
+      internalID: 7976827686389108837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinminion1attack_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 17
+        width: 46
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad241cd4a5e8c46428ea305399f67c68
+      internalID: 4648527577653320795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinminion1attack_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 17
+        width: 46
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d1051dadb956147ae67073dc0d98c6
+      internalID: -5439003372080780513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

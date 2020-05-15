@@ -1,0 +1,1687 @@
+fileFormatVersion: 2
+guid: a4da5f1c6604931498d54f05930c4810
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8965733698027720924
+    second: goblinminion1_sprite_sheet_full_0
+  - first:
+      213: 8087234246002904726
+    second: goblinminion1_sprite_sheet_full_1
+  - first:
+      213: 1403095664956057631
+    second: goblinminion1_sprite_sheet_full_2
+  - first:
+      213: 2299215343650839395
+    second: goblinminion1_sprite_sheet_full_3
+  - first:
+      213: -5591799376178039088
+    second: goblinminion1_sprite_sheet_full_4
+  - first:
+      213: -212022297110478802
+    second: goblinminion1_sprite_sheet_full_5
+  - first:
+      213: 7238855725378848259
+    second: goblinminion1_sprite_sheet_full_6
+  - first:
+      213: -3606035950376201449
+    second: goblinminion1_sprite_sheet_full_7
+  - first:
+      213: 8374872759151154671
+    second: goblinminion1_sprite_sheet_full_8
+  - first:
+      213: 3965986087035777979
+    second: goblinminion1_sprite_sheet_full_9
+  - first:
+      213: 4345048844100374436
+    second: goblinminion1_sprite_sheet_full_10
+  - first:
+      213: 5215994104997954015
+    second: goblinminion1_sprite_sheet_full_11
+  - first:
+      213: -5972843239078302008
+    second: goblinminion1_sprite_sheet_full_12
+  - first:
+      213: -2545466089786294634
+    second: goblinminion1_sprite_sheet_full_13
+  - first:
+      213: -9126141383034137840
+    second: goblinminion1_sprite_sheet_full_14
+  - first:
+      213: 7815212393316728656
+    second: goblinminion1_sprite_sheet_full_15
+  - first:
+      213: -2751468883850284259
+    second: goblinminion1_sprite_sheet_full_16
+  - first:
+      213: 4321459342633065960
+    second: goblinminion1_sprite_sheet_full_17
+  - first:
+      213: -6732027002948382361
+    second: goblinminion1_sprite_sheet_full_18
+  - first:
+      213: 1983664707499603285
+    second: goblinminion1_sprite_sheet_full_19
+  - first:
+      213: -2220761057811542415
+    second: goblinminion1_sprite_sheet_full_20
+  - first:
+      213: -7425701171448647019
+    second: goblinminion1_sprite_sheet_full_21
+  - first:
+      213: -8149144291019814003
+    second: goblinminion1_sprite_sheet_full_22
+  - first:
+      213: -3367724349695360369
+    second: goblinminion1_sprite_sheet_full_23
+  - first:
+      213: -2270219670046703096
+    second: goblinminion1_sprite_sheet_full_24
+  - first:
+      213: -8172188557478214360
+    second: goblinminion1_sprite_sheet_full_25
+  - first:
+      213: 205282673681132857
+    second: goblinminion1_sprite_sheet_full_26
+  - first:
+      213: 1247700748878411694
+    second: goblinminion1_sprite_sheet_full_27
+  - first:
+      213: 4290013622096379099
+    second: goblinminion1_sprite_sheet_full_28
+  - first:
+      213: -3777533995163882270
+    second: goblinminion1_sprite_sheet_full_29
+  - first:
+      213: 7483336431760960629
+    second: goblinminion1_sprite_sheet_full_30
+  - first:
+      213: -7685409063796205267
+    second: goblinminion1_sprite_sheet_full_31
+  - first:
+      213: -5245223333191650261
+    second: goblinminion1_sprite_sheet_full_32
+  - first:
+      213: -6932507453451239247
+    second: goblinminion1_sprite_sheet_full_33
+  - first:
+      213: -7709683692912834713
+    second: goblinminion1_sprite_sheet_full_34
+  - first:
+      213: 5197210031943756495
+    second: goblinminion1_sprite_sheet_full_35
+  - first:
+      213: -4689245686355796460
+    second: goblinminion1_sprite_sheet_full_36
+  - first:
+      213: -2850357908501614310
+    second: goblinminion1_sprite_sheet_full_37
+  - first:
+      213: -2620150437914287391
+    second: goblinminion1_sprite_sheet_full_38
+  - first:
+      213: -2698772437364760388
+    second: goblinminion1_sprite_sheet_full_39
+  - first:
+      213: -1218891695802031841
+    second: goblinminion1_sprite_sheet_full_40
+  - first:
+      213: -143208065523242662
+    second: goblinminion1_sprite_sheet_full_41
+  - first:
+      213: 2846351054433753181
+    second: goblinminion1_sprite_sheet_full_42
+  - first:
+      213: 2695039757329779363
+    second: goblinminion1_sprite_sheet_full_43
+  - first:
+      213: -7780533053007247883
+    second: goblinminion1_sprite_sheet_full_44
+  - first:
+      213: 7294300677360881113
+    second: goblinminion1_sprite_sheet_full_45
+  - first:
+      213: -5417086200894682241
+    second: goblinminion1_sprite_sheet_full_46
+  - first:
+      213: 8914277059949880752
+    second: goblinminion1_sprite_sheet_full_47
+  - first:
+      213: -2880932256143816008
+    second: goblinminion1_sprite_sheet_full_48
+  - first:
+      213: -814531904529625097
+    second: goblinminion1_sprite_sheet_full_49
+  - first:
+      213: 798679858084288388
+    second: goblinminion1_sprite_sheet_full_50
+  - first:
+      213: 9027051676100852709
+    second: goblinminion1_sprite_sheet_full_51
+  - first:
+      213: -8408336847858082563
+    second: goblinminion1_sprite_sheet_full_52
+  - first:
+      213: 2164861713157062682
+    second: goblinminion1_sprite_sheet_full_53
+  - first:
+      213: 2963878615129708097
+    second: goblinminion1_sprite_sheet_full_54
+  - first:
+      213: -5121515518697674330
+    second: goblinminion1_sprite_sheet_full_55
+  - first:
+      213: -1048750145116073942
+    second: goblinminion1_sprite_sheet_full_56
+  - first:
+      213: 7331048697726319221
+    second: goblinminion1_sprite_sheet_full_57
+  - first:
+      213: 6719492833495722551
+    second: goblinminion1_sprite_sheet_full_58
+  - first:
+      213: 579310147635167393
+    second: goblinminion1_sprite_sheet_full_59
+  - first:
+      213: 5800802435431365005
+    second: goblinminion1_sprite_sheet_full_60
+  - first:
+      213: -5759259318775581382
+    second: goblinminion1_sprite_sheet_full_61
+  - first:
+      213: -4492315051468104880
+    second: goblinminion1_sprite_sheet_full_62
+  - first:
+      213: -5560729935264859152
+    second: goblinminion1_sprite_sheet_full_63
+  - first:
+      213: 1523259067431985053
+    second: goblinminion1_sprite_sheet_full_64
+  - first:
+      213: -5248022103413114460
+    second: goblinminion1_sprite_sheet_full_65
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: goblinminion1_sprite_sheet_full_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 721
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a30c93b99026834d810e425409b12d2
+      internalID: -8965733698027720924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinminion1_sprite_sheet_full_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 722
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2a166350a2dbd408806b47b26e198d
+      internalID: 8087234246002904726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinminion1_sprite_sheet_full_2
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 723
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc47a832b346c8747bb4a262e736d968
+      internalID: 1403095664956057631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinminion1_sprite_sheet_full_3
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 722
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0defc39e504de174b91bad9ade4d1f58
+      internalID: 2299215343650839395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinminion1_sprite_sheet_full_4
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 723
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 970eb9ee1de9fef4e89361474cd55b09
+      internalID: -5591799376178039088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinminion1_sprite_sheet_full_5
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 722
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc98141e4f767194db7a49abe80f8d1e
+      internalID: -212022297110478802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinminion1_sprite_sheet_full_6
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 658
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5967b18bb53bc8d4f9918680eda88370
+      internalID: 7238855725378848259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinminion1_sprite_sheet_full_7
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 659
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a891b49be64a33e498b669feea271b5b
+      internalID: -3606035950376201449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinminion1_sprite_sheet_full_8
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 658
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3448fa60eacdcb647a0f00ea1ad34399
+      internalID: 8374872759151154671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinminion1_sprite_sheet_full_9
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 659
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e44bacfe2022ea44f944d7ba575ff356
+      internalID: 3965986087035777979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinminion1_sprite_sheet_full_10
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 658
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e036fc0750969a84890650dc05291d3d
+      internalID: 4345048844100374436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinminion1_sprite_sheet_full_11
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 657
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 309f88378aa7d9241b0bec843461e665
+      internalID: 5215994104997954015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinminion1_sprite_sheet_full_12
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 595
+        width: 15
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b77afc0825bb1564f9b3e07c5879223f
+      internalID: -5972843239078302008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinminion1_sprite_sheet_full_13
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 595
+        width: 14
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5599736428c1363479d53895bbca6fc4
+      internalID: -2545466089786294634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinminion1_sprite_sheet_full_14
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 595
+        width: 15
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d596e88ba484ce4d85bb6d518aefa80
+      internalID: -9126141383034137840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinminion1_sprite_sheet_full_15
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 595
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c054c6765e254a418641d2cd28815f6
+      internalID: 7815212393316728656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinminion1_sprite_sheet_full_16
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 595
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f8a92efa0954741b97fb7052f7169f
+      internalID: -2751468883850284259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinminion1_sprite_sheet_full_17
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 595
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b6f7cd3f26cc547bf486ae1859b28c
+      internalID: 4321459342633065960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinminion1_sprite_sheet_full_18
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 531
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8da7ff28bef8484ebb920c149f9a7f6
+      internalID: -6732027002948382361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinminion1_sprite_sheet_full_19
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 531
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ceb11c10d4b7e4cb32f9614ee572ed
+      internalID: 1983664707499603285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinminion1_sprite_sheet_full_20
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 531
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f5ca862fa2f5b54ea367e8457f634d9
+      internalID: -2220761057811542415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinminion1_sprite_sheet_full_21
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 531
+        width: 15
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a348a11287ab8e5488ead74c714b0643
+      internalID: -7425701171448647019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinminion1_sprite_sheet_full_22
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 531
+        width: 14
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9513766d7802ae45a4c001a71a71eba
+      internalID: -8149144291019814003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinminion1_sprite_sheet_full_23
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 531
+        width: 15
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8f8492cfb7541540af4d71ab465b8a8
+      internalID: -3367724349695360369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinminion1_sprite_sheet_full_24
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 466
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e2837b3dafd78648baef11baafd162e
+      internalID: -2270219670046703096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinminion1_sprite_sheet_full_25
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 466
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0b7967d64bf3404093532c24f8491d2
+      internalID: -8172188557478214360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinminion1_sprite_sheet_full_26
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 466
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e61ba6883407804893b811d3d8e4c71
+      internalID: 205282673681132857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinminion1_sprite_sheet_full_27
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 466
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56cdc5a822b49ae419c3dd5206300059
+      internalID: 1247700748878411694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinminion1_sprite_sheet_full_28
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 466
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07fb8ccbccc25784fb99666301052493
+      internalID: 4290013622096379099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinminion1_sprite_sheet_full_29
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 466
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e663459795a13dd4c984095b4011e45c
+      internalID: -3777533995163882270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinminion1_sprite_sheet_full_30
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 466
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09eccad4c0a59164ba4620edc7f0f0fd
+      internalID: 7483336431760960629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinminion1_sprite_sheet_full_31
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 466
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb155e7d00472544bb0acae3b8d93f46
+      internalID: -7685409063796205267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinminion1_sprite_sheet_full_32
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 466
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf2531b1382befd47ae573e8e0b27094
+      internalID: -5245223333191650261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinminion1_sprite_sheet_full_33
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 393
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ded8df0158f45c4d80e96dd998ec172
+      internalID: -6932507453451239247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinminion1_sprite_sheet_full_34
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 391
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebbee2b0aa2a71f43a517effc9d99e1c
+      internalID: -7709683692912834713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinminion1_sprite_sheet_full_35
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 394
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9060dc1e561500a47a3be8b19259169e
+      internalID: 5197210031943756495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinminion1_sprite_sheet_full_36
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 392
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3159a615b7036c34085b555e0c7b253e
+      internalID: -4689245686355796460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinminion1_sprite_sheet_full_37
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 389
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9757ecf576819194986f2ae0a1ba84d7
+      internalID: -2850357908501614310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinminion1_sprite_sheet_full_38
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 387
+        width: 24
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb1dbec5dd3b934ab3199915c5daaf2
+      internalID: -2620150437914287391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinminion1_sprite_sheet_full_39
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 391
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb401b2d520aecb4f85c2240504bf46a
+      internalID: -2698772437364760388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinminion1_sprite_sheet_full_40
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 393
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a22f2574da2f3c43bd593da8b20b1da
+      internalID: -1218891695802031841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinminion1_sprite_sheet_full_41
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 394
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9181d4cfc126624aa1e41cd1447cab0
+      internalID: -143208065523242662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinminion1_sprite_sheet_full_42
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 336
+        width: 47
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b472ad7573fdf6541a21a64ee1219d00
+      internalID: 2846351054433753181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinminion1_sprite_sheet_full_43
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 336
+        width: 47
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a8180df82abe61479acdca57c13300a
+      internalID: 2695039757329779363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinminion1_sprite_sheet_full_44
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 336
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9359cffdf0580b40aedc1acf0efec07
+      internalID: -7780533053007247883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinminion1_sprite_sheet_full_45
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 336
+        width: 46
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58130cf7c2597e24da44d2a570ee0817
+      internalID: 7294300677360881113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinminion1_sprite_sheet_full_46
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 336
+        width: 46
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14ad72fb2a872844087801f8f665f323
+      internalID: -5417086200894682241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinminion1_sprite_sheet_full_47
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 336
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f1c94bdd777be4c8ecdcd1ea074440
+      internalID: 8914277059949880752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinminion1_sprite_sheet_full_48
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 337
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: befb98a25b086e342bb6416052c8f802
+      internalID: -2880932256143816008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinminion1_sprite_sheet_full_49
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 336
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e4d4ed82f13eb541aff4a1acaced14e
+      internalID: -814531904529625097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinminion1_sprite_sheet_full_50
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 336
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a0b0f86d5ffb1041bb48e59f999ed4a
+      internalID: 798679858084288388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinminion1_sprite_sheet_full_51
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 336
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b06809ea89a304497903abbe3b1288
+      internalID: 9027051676100852709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinminion1_sprite_sheet_full_52
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 336
+        width: 46
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc905a0d1b801d43955516624878526
+      internalID: -8408336847858082563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinminion1_sprite_sheet_full_53
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 336
+        width: 46
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a57ed0b1465eb4c9d81971f2cf0315
+      internalID: 2164861713157062682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinminion1_sprite_sheet_full_54
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 275
+        width: 47
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c63277d7fcf4a7c4e99d4fdf94b4715c
+      internalID: 2963878615129708097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinminion1_sprite_sheet_full_55
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 275
+        width: 47
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73080939bc1b54f4ab1e519f75564039
+      internalID: -5121515518697674330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinminion1_sprite_sheet_full_56
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 275
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7445c8d0b656bdb449fab9e4fe4184f0
+      internalID: -1048750145116073942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinminion1_sprite_sheet_full_57
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 275
+        width: 46
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 870527e262261a14596b79cd2554275e
+      internalID: 7331048697726319221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinminion1_sprite_sheet_full_58
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 275
+        width: 46
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5aead92d8a133d488f80327b2655230
+      internalID: 6719492833495722551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinminion1_sprite_sheet_full_59
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 274
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d73e3ee5c4c244984897dfb2b45997
+      internalID: 579310147635167393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinminion1_sprite_sheet_full_60
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 274
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2501b30f91c88046a0f27ac2f3fb393
+      internalID: 5800802435431365005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinminion1_sprite_sheet_full_61
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 273
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c91fb159c9bc1984585de97fe4e065cf
+      internalID: -5759259318775581382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinminion1_sprite_sheet_full_62
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 275
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ebbfc19321b4cd49b5545dcf1017ee0
+      internalID: -4492315051468104880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinminion1_sprite_sheet_full_63
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 275
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78a74ee7df0b4fe42bde70acc6145c0c
+      internalID: -5560729935264859152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinminion1_sprite_sheet_full_64
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 275
+        width: 46
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a74275be83e46924381747ed4ef2b1e2
+      internalID: 1523259067431985053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinminion1_sprite_sheet_full_65
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 275
+        width: 46
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f7388ea9bc738408d74e4fc593b4f6
+      internalID: -5248022103413114460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
