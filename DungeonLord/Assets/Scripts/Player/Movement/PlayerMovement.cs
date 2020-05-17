@@ -9,7 +9,8 @@ public class PlayerMovement : MonoBehaviour
     public float _moveSpeed = 5f;
 
     [Header("References")]
-    public InputMaster _inputs;
+    //Input master needs to get passed around or references somehow
+    //public InputMaster _inputs;
     public Animator _animator;
     public Rigidbody2D _rb;
 
@@ -27,6 +28,8 @@ public class PlayerMovement : MonoBehaviour
     {
         _inputs.PlayerActions.Movement.canceled += _ => _movementInputDirection = new Vector2(0f, 0f);
         _inputs.PlayerActions.Movement.performed += performedContext => _movementInputDirection = performedContext.ReadValue<Vector2>();
+        //This works, may need some kind of input manager per player so that this instance can get passed around perhaps
+        _inputs.PlayerActions.Attack.performed += context => _animator.SetTrigger("Attack");
     }
 
     private void Move()

@@ -6,4 +6,7 @@ namespace Unit
 {
     public delegate void OnHealthChange();
     public delegate void OnResourceChange();
+    public delegate void OnUnitMove(Vector2 direction);
+    public delegate void OnUnitAttack();
+    public delegate void OnUnitCast(SpellConfiguration spell);
 }

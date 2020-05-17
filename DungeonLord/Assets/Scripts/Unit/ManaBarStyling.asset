@@ -41,5 +41,5 @@ MonoBehaviour:
     m_Mode: 0
     m_NumColorKeys: 2
     m_NumAlphaKeys: 2
-  LeftSideImage: {fileID: 21300000, guid: 55d17d05f15ead343a9b691c6ecf5e6c, type: 3}
+  LeftSideImage: {fileID: 21300000, guid: a53274f6d888a494a86d2718b1c81be2, type: 3}
   StatBarOutline: {fileID: 21300000, guid: bf664f68ef58e404a8697df80c67f052, type: 3}
