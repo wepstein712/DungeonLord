@@ -6,7 +6,9 @@ namespace Unit
 {
     public class UnitAttackConfiguration : ScriptableObject, ICanAttack
     {
-
+        public float Cooldown = 2f;
+        public float Damage = 15f;
+        //public float HitBox = ??
 
         public void Attack()
         {
