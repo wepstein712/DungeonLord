@@ -4,7 +4,7 @@ using UnityEngine;
 
 namespace Unit
 {
-    public interface IUnitEventManager
+    public interface IUnitManager
     {
         event OnUnitMove UnitMoved;
         event OnUnitAttack UnitAttacked;

@@ -13,7 +13,7 @@ public class PlayerMovement : MonoBehaviour
     //public InputMaster _inputs;
     public Animator _animator;
     public Rigidbody2D _rb;
-
+    public InputMaster _inputs;
     private Vector2 _movementInputDirection;
 
     void Awake()

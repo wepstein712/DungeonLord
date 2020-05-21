@@ -11,19 +11,25 @@ namespace Unit
         
         public event OnUnitMove UnitMoved;
         public event OnUnitAttack UnitAttacked;
+        public event OnUnitAttemptToAttack AttackCommandGiven;
         public event OnUnitCast UnitCasted; //Implement this
 
-        protected void InvokeUnitMoved(Vector2 dir)
+        public void InvokeUnitMoved(Vector2 dir)
         {
             UnitMoved?.Invoke(dir);
         }
 
-        protected void InvokeUnitAttacked()
+        public void InvokeAttackCommandGiven()
         {
-            UnitAttacked?.Invoke();
+            AttackCommandGiven?.Invoke();
         }
 
-        protected void InvokeUnitCasted(SpellConfiguration spell)
+        public void InvokeUnitAttacked(UnitAttackConfiguration attack)
+        {
+            UnitAttacked?.Invoke(attack);
+        }
+
+        public void InvokeUnitCasted(SpellConfiguration spell)
         {
             UnitCasted?.Invoke(spell);
         }

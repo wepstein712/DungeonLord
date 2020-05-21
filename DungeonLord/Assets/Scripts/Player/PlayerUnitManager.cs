@@ -7,19 +7,23 @@ namespace Unit
     public class PlayerUnitManager : UnitManager
     {
         //Events are driven by player input
-        public PlayerInputManager _inputManager;
+        public InputMaster _playerInputs;
 
         void OnEnable()
         {
-            _inputManager.UnitMoved += base.InvokeUnitMoved;
-            _inputManager.UnitAttacked += base.InvokeUnitAttacked;
+            _playerInputs = new InputMaster();
+            _playerInputs.Enable();
+            _playerInputs.PlayerActions.Movement.performed += performedContext => base.InvokeUnitMoved(performedContext.ReadValue<Vector2>());
+            _playerInputs.PlayerActions.Movement.canceled += performedContext => base.InvokeUnitMoved(Vector2.zero);
+            _playerInputs.PlayerActions.Attack.performed += performedContext => base.InvokeAttackCommandGiven();
             //casted
         }
 
         void OnDisable()
         {
-            _inputManager.UnitMoved -= base.InvokeUnitMoved;
-            _inputManager.UnitAttacked -= base.InvokeUnitAttacked;
+            _playerInputs.PlayerActions.Movement.performed -= performedContext => base.InvokeUnitMoved(performedContext.ReadValue<Vector2>());
+            _playerInputs.PlayerActions.Attack.performed -= performedContext => base.InvokeAttackCommandGiven();
+            _playerInputs.Disable();
             //casted
         }
     }

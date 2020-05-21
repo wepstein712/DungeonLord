@@ -6,20 +6,37 @@ namespace Unit
 {
     public class UnitAnimationManager : MonoBehaviour
     {
+        [Header("References")]
         public Animator _animator;
-        //public PlayerInputManager //This hard reference is no good, needs something like IUnitManager or some shit. Perhaps a player manager has a Unit Manager - Or a PlayerUnitManager: IUnitManager and an AiUnitManager
-        // Start is called before the first frame update
         
-        private IUnitManager _unitManager;
+        private UnitManager _unitManager;
+
+        public void TriggerAttackAnimation(UnitAttackConfiguration placeholder)
+        {
+            _animator.SetTrigger("Attack");
+        }
+
+        private void SetMovementDirection(Vector2 inputDir)
+        {
+            if(inputDir != Vector2.zero)
+            {
+                _animator.SetFloat("Horizontal", inputDir.x);
+                _animator.SetFloat("Vertical", inputDir.y);
+            }
+        }
 
         private void OnEnable() 
         {
-            
+            _unitManager = GetComponent<UnitManager>();
+            _animator = GetComponent<Animator>();
+            _unitManager.UnitMoved += SetMovementDirection;
+            _unitManager.UnitAttacked += TriggerAttackAnimation;
         }
 
-        private void OnDisable()
+        void OnDisable()
         {
-
+            _unitManager.UnitMoved -= SetMovementDirection;
+            _unitManager.UnitAttacked -= TriggerAttackAnimation;
         }
     }
 
