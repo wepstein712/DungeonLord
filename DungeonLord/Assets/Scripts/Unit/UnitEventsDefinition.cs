@@ -10,4 +10,5 @@ namespace Unit
     public delegate void OnUnitAttack(UnitAttackConfiguration attack);
     public delegate void OnUnitCast(SpellConfiguration spell);
     public delegate void OnUnitAttemptToAttack();
+    public delegate void OnUnitDie();
 }

@@ -5,6 +5,7 @@ using Unit;
 
 public class TrapBarrel : MonoBehaviour
 {
+    public float _damage = 50;
     void OnCollisionEnter2D(Collision2D other)
     {
         if(other.collider.gameObject.CompareTag("Unit"))
@@ -12,13 +13,13 @@ public class TrapBarrel : MonoBehaviour
             var healthScript = other.gameObject.GetComponent<IHealth>() as IResource;
             if(healthScript != null)
             {
-                healthScript.SubtractAmount(10);
+                healthScript.SubtractAmount(35);
             }
 
             var manaScript = other.gameObject.GetComponent<IMana>() as IResource;
             if(manaScript != null)
             {
-                manaScript.SubtractAmount(30);
+                manaScript.SubtractAmount(_damage);
             }
         }
     }

@@ -14,6 +14,10 @@ namespace Unit
         [SerializeField]
         private float _maxHealth = 100;
 
+        [Header("References")]
+        [SerializeField]
+        private UnitManager _unitManager;
+
         public float CurrentValue { get { return _currentHealth; } }
 
         public float MaxValue { get { return _maxHealth; } }
@@ -28,8 +32,11 @@ namespace Unit
             if(_currentHealth > _maxHealth)
                 _currentHealth = _maxHealth;
 
-            if(_currentHealth < 0)
+            if(_currentHealth <= 0)
+            {
                 _currentHealth = 0;
+                TriggerUnitDied();
+            }
 
             ResourceChanged?.Invoke();
         }
@@ -77,6 +84,17 @@ namespace Unit
             var targetValue = _maxHealth * modifiedNewPercent;
             _currentHealth = targetValue;
             return _currentHealth;
+        }
+
+        //Event Triggers
+        private void TriggerUnitDied()
+        {
+            _unitManager.InvokeUnitDied();
+        }
+
+        void OnEnable()
+        {
+            _unitManager = GetComponent<UnitManager>();
         }
 
         //Events
