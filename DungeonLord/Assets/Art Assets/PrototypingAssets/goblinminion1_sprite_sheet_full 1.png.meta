@@ -513,9 +513,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 714
-        y: 713
-        width: 34
-        height: 35
+        y: 717
+        width: 36
+        height: 41
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -872,7 +872,7 @@ TextureImporter:
         x: 657
         y: 597
         width: 34
-        height: 28
+        height: 35
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -891,9 +891,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 720
-        y: 600
+        y: 599
         width: 34
-        height: 15
+        height: 36
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1061,7 +1061,7 @@ TextureImporter:
         x: 653
         y: 533
         width: 34
-        height: 28
+        height: 35
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1079,10 +1079,10 @@ TextureImporter:
       name: goblinminion1_sprite_sheet_full 1_42
       rect:
         serializedVersion: 2
-        x: 718
+        x: 719
         y: 536
-        width: 34
-        height: 15
+        width: 32
+        height: 35
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
