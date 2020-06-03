@@ -20,14 +20,14 @@ public class HitboxDetector : MonoBehaviour
         if (_uam == null)
         {
             Debug.LogError("There should be a unit attack manager attacked to the component 2 levels higher");
-        } 
+        }
 
     }
 
 
     void Update()
     {
-        //Debug.Log(gameObject.transform);
+        //Debug.Log(gameObject.transform); 
         if (isOn && _hit && !_hasHit)
         {
             _hasHit = true;
@@ -55,7 +55,7 @@ public class HitboxDetector : MonoBehaviour
 
     void OnTriggerExit2D(Collider2D col)
     {
-       if (col.tag == "Unit" && _hit == true)
+        if (col.tag == "Unit" && _hit == true)
         {
             _hit = false;
             _otherCollider = null;

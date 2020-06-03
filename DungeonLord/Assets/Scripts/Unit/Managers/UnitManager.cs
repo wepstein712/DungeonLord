@@ -44,5 +44,16 @@ namespace Unit
         {
             Destroy(this.gameObject);
         }
+
+        public virtual void attackStart(string direction)
+        {
+            UnityEngine.Debug.Log("THIS SHOULD NOT BE CALLED :: attackStart UnitManager");
+        }
+
+        public virtual void attackEnd()
+        {
+            UnityEngine.Debug.Log("THIS SHOULD NOT BE CALLED :: attackEnd UnitManager");
+
+        }
     }
 }

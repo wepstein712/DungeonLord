@@ -58,5 +58,21 @@ namespace Unit
         {
             _direction = dir;
         }
+        public void doDamage(Collider2D col)
+        {
+            GameObject unitHit = col.gameObject;
+            Debug.Log("HIT: " + unitHit.name);
+            var otherUnitHealthScript = unitHit.gameObject.GetComponent<IHealth>() as IResource;
+            if (otherUnitHealthScript != null)
+            {
+                float curHP = otherUnitHealthScript.CurrentValue;
+                Debug.Log("Health: " + curHP + "DAMAGE " + _attackConfig.Damage);
+                float newHP = otherUnitHealthScript.SubtractAmount(_attackConfig.Damage);
+                Debug.Log("new health: " + newHP);
+                // otherUnitHealthScript.SubtractAmount(_attackConfig.Damage); 
+            }
+
+
+        }
     }
 }

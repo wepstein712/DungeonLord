@@ -54,6 +54,16 @@ namespace Unit
             _unitManager.UnitAttacked -= TriggerAttackAnimation;
             _unitManager.UnitDied -= TriggerUnitDied;
         }
+
+        public void startAttackFrame(string dir)
+        {
+            _unitManager.attackStart(dir);
+        }
+        public void endAttackFrame()
+        {
+            _unitManager.attackEnd();
+        }
+
     }
 
 }
